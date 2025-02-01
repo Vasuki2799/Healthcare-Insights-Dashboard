@@ -106,4 +106,6 @@ The project retrieves data dynamically using SQL queries. Some examples include:
 - **Name:** VASUKI ARUL
 - **Batch Code:** DS-C-WD-E-B29
 - **LinkedIn URL:** (https://www.linkedin.com/in/vasuki27/)
+- **Demo Video URL:** (https://www.linkedin.com/posts/vasuki27_sql-dynamic-interactive-activity-7291319779997462528-irc-?utm_source=share&utm_medium=member_desktop)
+
 
