@@ -1,4 +1,3 @@
-<img width="1428" alt="Screenshot 2025-02-01 at 10 18 03 AM" src="https://github.com/user-attachments/assets/e110b803-2844-425f-93f4-af8f115cb631" />
 # Healthcare Insights Dashboard
 
 ## 📌 Project Overview
