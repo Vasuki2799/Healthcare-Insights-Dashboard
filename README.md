@@ -1,3 +1,4 @@
+<img width="1428" alt="Screenshot 2025-02-01 at 10 18 03 AM" src="https://github.com/user-attachments/assets/e110b803-2844-425f-93f4-af8f115cb631" />
 # Healthcare Insights Dashboard
 
 ## 📌 Project Overview
@@ -93,7 +94,8 @@ The project retrieves data dynamically using SQL queries. Some examples include:
   ```
 
 ## 🎨 Dashboard Preview
-(Add screenshots of the dashboard here to showcase different sections.)
+<img width="1428" alt="Screenshot 2025-02-01 at 10 18 03 AM" src="https://github.com/user-attachments/assets/c45725a8-efa4-41b7-bd64-93e250098e99" />
+
 
 ## 🏆 Future Enhancements
 - Add more **filters** to customize patient data views.
